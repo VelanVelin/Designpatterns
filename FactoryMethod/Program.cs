@@ -10,7 +10,7 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("derp");
+            Console.WriteLine("herp derp");
         }
     }
 }
