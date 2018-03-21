@@ -42,6 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entites\BibliographyPage.cs" />
+    <Compile Include="Entites\ConclusionPage.cs" />
+    <Compile Include="Entites\EducationPage.cs" />
+    <Compile Include="Entites\ExperiencePage.cs" />
+    <Compile Include="Entites\IntroductionPage.cs" />
+    <Compile Include="Entites\Page.cs" />
+    <Compile Include="Entites\ResultsPage.cs" />
+    <Compile Include="Entites\SkillsPage.cs" />
+    <Compile Include="Entites\SummaryPage.cs" />
+    <Compile Include="Factories\Document.cs" />
+    <Compile Include="Factories\Report.cs" />
+    <Compile Include="Factories\Resume.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
